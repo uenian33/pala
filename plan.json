@@ -1,0 +1,1510 @@
+{
+ "title": "四天三明治",
+ "subtitle": "S-market · 芬兰 2024 营养建议",
+ "totalEur": 28.76,
+ "originalEur": 33.98,
+ "kcal": 2000,
+ "protein": 87,
+ "fiber": 45,
+ "salt": 3.9,
+ "days": [
+  {
+   "label": "周一",
+   "meals": [
+    {
+     "id": "breakfast",
+     "title": "早餐",
+     "symbol": "sunrise.fill",
+     "time": "7:30",
+     "note": "rahka 上撒 granola，配一杯牛奶",
+     "kcal": 305,
+     "protein": 29,
+     "items": [
+      {
+       "name": "无乳糖脱脂牛奶",
+       "grams": 250,
+       "unit": "2.5 dl",
+       "symbol": "drop.fill"
+      },
+      {
+       "name": "无乳糖 rahka",
+       "grams": 125,
+       "unit": "¼ 盒",
+       "symbol": "cup.and.saucer.fill"
+      },
+      {
+       "name": "水煮蛋",
+       "grams": 60,
+       "unit": "1 个",
+       "symbol": "oval.portrait.fill"
+      },
+      {
+       "name": "Granola 脆片",
+       "grams": 20,
+       "unit": "约 ½ dl",
+       "symbol": "leaf.fill"
+      }
+     ]
+    },
+    {
+     "id": "lunch",
+     "title": "午饭",
+     "symbol": "takeoutbag.and.cup.and.straw.fill",
+     "time": "12:00",
+     "note": "开一罐金枪鱼，吃一半",
+     "kcal": 779,
+     "protein": 25,
+     "items": [
+      {
+       "name": "黑麦面包块",
+       "grams": 165,
+       "unit": "3 块",
+       "symbol": "square.split.diagonal.fill"
+      },
+      {
+       "name": "黄瓜",
+       "grams": 117,
+       "unit": "⅓ 根",
+       "symbol": "leaf.fill"
+      },
+      {
+       "name": "金枪鱼碎",
+       "grams": 52,
+       "unit": "½ 罐",
+       "symbol": "fish.fill"
+      },
+      {
+       "name": "鹰嘴豆泥",
+       "grams": 50,
+       "unit": "3 汤匙",
+       "symbol": "circle.hexagongrid.fill"
+      },
+      {
+       "name": "胡萝卜",
+       "grams": 33,
+       "unit": "1 小根",
+       "symbol": "carrot.fill"
+      },
+      {
+       "name": "人造黄油（含维生素 D）",
+       "grams": 20,
+       "unit": "4 小勺",
+       "symbol": "sun.max.fill"
+      },
+      {
+       "name": "菜籽油",
+       "grams": 9,
+       "unit": "2 小勺 · 拌沙拉",
+       "symbol": "drop.fill"
+      }
+     ]
+    },
+    {
+     "id": "dinner",
+     "title": "晚饭",
+     "symbol": "frying.pan.fill",
+     "time": "18:30",
+     "note": "现做一锅，吃一半",
+     "kcal": 659,
+     "protein": 20,
+     "items": [
+      {
+       "name": "糙米",
+       "grams": 120,
+       "unit": "120 g 生米",
+       "symbol": "circle.grid.3x3.fill"
+      },
+      {
+       "name": "番茄碎",
+       "grams": 100,
+       "unit": "¼ 罐",
+       "symbol": "flame.fill"
+      },
+      {
+       "name": "冷冻菠菜",
+       "grams": 50,
+       "unit": "⅓ 包",
+       "symbol": "leaf.fill"
+      },
+      {
+       "name": "豆腐",
+       "grams": 50,
+       "unit": "¼ 盒",
+       "symbol": "square.fill"
+      },
+      {
+       "name": "菜籽油",
+       "grams": 16,
+       "unit": "1 汤匙",
+       "symbol": "drop.fill"
+      }
+     ]
+    },
+    {
+     "id": "snack",
+     "title": "加餐",
+     "symbol": "basket.fill",
+     "time": "15:30",
+     "note": "下午或饭后",
+     "kcal": 246,
+     "protein": 7,
+     "items": [
+      {
+       "name": "香蕉",
+       "grams": 103,
+       "unit": "1 根",
+       "symbol": "moon.fill"
+      },
+      {
+       "name": "橘子",
+       "grams": 92,
+       "unit": "1 个",
+       "symbol": "circle.fill"
+      },
+      {
+       "name": "无盐花生",
+       "grams": 20,
+       "unit": "一小把",
+       "symbol": "circle.dotted"
+      }
+     ]
+    }
+   ],
+   "kcal": 1990,
+   "protein": 81,
+   "fiber": 45,
+   "salt": 3.6,
+   "carbPct": 45,
+   "fatPct": 34,
+   "proteinPct": 16
+  },
+  {
+   "label": "周二",
+   "meals": [
+    {
+     "id": "breakfast",
+     "title": "早餐",
+     "symbol": "sunrise.fill",
+     "time": "7:30",
+     "note": "rahka 上撒 granola，配一杯牛奶",
+     "kcal": 305,
+     "protein": 29,
+     "items": [
+      {
+       "name": "无乳糖脱脂牛奶",
+       "grams": 250,
+       "unit": "2.5 dl",
+       "symbol": "drop.fill"
+      },
+      {
+       "name": "无乳糖 rahka",
+       "grams": 125,
+       "unit": "¼ 盒",
+       "symbol": "cup.and.saucer.fill"
+      },
+      {
+       "name": "水煮蛋",
+       "grams": 60,
+       "unit": "1 个",
+       "symbol": "oval.portrait.fill"
+      },
+      {
+       "name": "Granola 脆片",
+       "grams": 20,
+       "unit": "约 ½ dl",
+       "symbol": "leaf.fill"
+      }
+     ]
+    },
+    {
+     "id": "lunch",
+     "title": "午饭",
+     "symbol": "takeoutbag.and.cup.and.straw.fill",
+     "time": "12:00",
+     "note": "金枪鱼吃完 · 开沙丁鱼",
+     "kcal": 863,
+     "protein": 37,
+     "items": [
+      {
+       "name": "黑麦面包块",
+       "grams": 165,
+       "unit": "3 块",
+       "symbol": "square.split.diagonal.fill"
+      },
+      {
+       "name": "黄瓜",
+       "grams": 117,
+       "unit": "⅓ 根",
+       "symbol": "leaf.fill"
+      },
+      {
+       "name": "番茄汁沙丁鱼",
+       "grams": 60,
+       "unit": "½ 罐",
+       "symbol": "fish.fill"
+      },
+      {
+       "name": "金枪鱼碎",
+       "grams": 52,
+       "unit": "½ 罐",
+       "symbol": "fish.fill"
+      },
+      {
+       "name": "鹰嘴豆泥",
+       "grams": 50,
+       "unit": "3 汤匙",
+       "symbol": "circle.hexagongrid.fill"
+      },
+      {
+       "name": "胡萝卜",
+       "grams": 33,
+       "unit": "1 小根",
+       "symbol": "carrot.fill"
+      },
+      {
+       "name": "人造黄油（含维生素 D）",
+       "grams": 20,
+       "unit": "4 小勺",
+       "symbol": "sun.max.fill"
+      },
+      {
+       "name": "菜籽油",
+       "grams": 9,
+       "unit": "2 小勺 · 拌沙拉",
+       "symbol": "drop.fill"
+      }
+     ]
+    },
+    {
+     "id": "dinner",
+     "title": "晚饭",
+     "symbol": "frying.pan.fill",
+     "time": "18:30",
+     "note": "热昨天剩下的一半",
+     "kcal": 587,
+     "protein": 20,
+     "items": [
+      {
+       "name": "糙米",
+       "grams": 120,
+       "unit": "120 g 生米",
+       "symbol": "circle.grid.3x3.fill"
+      },
+      {
+       "name": "番茄碎",
+       "grams": 100,
+       "unit": "¼ 罐",
+       "symbol": "flame.fill"
+      },
+      {
+       "name": "冷冻菠菜",
+       "grams": 50,
+       "unit": "⅓ 包",
+       "symbol": "leaf.fill"
+      },
+      {
+       "name": "豆腐",
+       "grams": 50,
+       "unit": "¼ 盒",
+       "symbol": "square.fill"
+      },
+      {
+       "name": "菜籽油",
+       "grams": 8,
+       "unit": "½ 汤匙",
+       "symbol": "drop.fill"
+      }
+     ]
+    },
+    {
+     "id": "snack",
+     "title": "加餐",
+     "symbol": "basket.fill",
+     "time": "15:30",
+     "note": "下午或饭后",
+     "kcal": 255,
+     "protein": 7,
+     "items": [
+      {
+       "name": "香蕉",
+       "grams": 113,
+       "unit": "1 根",
+       "symbol": "moon.fill"
+      },
+      {
+       "name": "橘子",
+       "grams": 92,
+       "unit": "1 个",
+       "symbol": "circle.fill"
+      },
+      {
+       "name": "无盐花生",
+       "grams": 20,
+       "unit": "一小把",
+       "symbol": "circle.dotted"
+      }
+     ]
+    }
+   ],
+   "kcal": 2010,
+   "protein": 92,
+   "fiber": 45,
+   "salt": 4.2,
+   "carbPct": 45,
+   "fatPct": 32,
+   "proteinPct": 18
+  },
+  {
+   "label": "周三",
+   "meals": [
+    {
+     "id": "breakfast",
+     "title": "早餐",
+     "symbol": "sunrise.fill",
+     "time": "7:30",
+     "note": "rahka 上撒 granola，配一杯牛奶",
+     "kcal": 305,
+     "protein": 29,
+     "items": [
+      {
+       "name": "无乳糖脱脂牛奶",
+       "grams": 250,
+       "unit": "2.5 dl",
+       "symbol": "drop.fill"
+      },
+      {
+       "name": "无乳糖 rahka",
+       "grams": 125,
+       "unit": "¼ 盒",
+       "symbol": "cup.and.saucer.fill"
+      },
+      {
+       "name": "水煮蛋",
+       "grams": 60,
+       "unit": "1 个",
+       "symbol": "oval.portrait.fill"
+      },
+      {
+       "name": "Granola 脆片",
+       "grams": 20,
+       "unit": "约 ½ dl",
+       "symbol": "leaf.fill"
+      }
+     ]
+    },
+    {
+     "id": "lunch",
+     "title": "午饭",
+     "symbol": "takeoutbag.and.cup.and.straw.fill",
+     "time": "12:00",
+     "note": "沙丁鱼吃完 · 开第二罐金枪鱼",
+     "kcal": 863,
+     "protein": 37,
+     "items": [
+      {
+       "name": "黑麦面包块",
+       "grams": 165,
+       "unit": "3 块",
+       "symbol": "square.split.diagonal.fill"
+      },
+      {
+       "name": "黄瓜",
+       "grams": 117,
+       "unit": "⅓ 根",
+       "symbol": "leaf.fill"
+      },
+      {
+       "name": "番茄汁沙丁鱼",
+       "grams": 60,
+       "unit": "½ 罐",
+       "symbol": "fish.fill"
+      },
+      {
+       "name": "金枪鱼碎",
+       "grams": 52,
+       "unit": "½ 罐",
+       "symbol": "fish.fill"
+      },
+      {
+       "name": "鹰嘴豆泥",
+       "grams": 50,
+       "unit": "3 汤匙",
+       "symbol": "circle.hexagongrid.fill"
+      },
+      {
+       "name": "胡萝卜",
+       "grams": 33,
+       "unit": "1 小根",
+       "symbol": "carrot.fill"
+      },
+      {
+       "name": "人造黄油（含维生素 D）",
+       "grams": 20,
+       "unit": "4 小勺",
+       "symbol": "sun.max.fill"
+      },
+      {
+       "name": "菜籽油",
+       "grams": 9,
+       "unit": "2 小勺 · 拌沙拉",
+       "symbol": "drop.fill"
+      }
+     ]
+    },
+    {
+     "id": "dinner",
+     "title": "晚饭",
+     "symbol": "frying.pan.fill",
+     "time": "18:30",
+     "note": "现做一锅，吃一半",
+     "kcal": 587,
+     "protein": 20,
+     "items": [
+      {
+       "name": "糙米",
+       "grams": 120,
+       "unit": "120 g 生米",
+       "symbol": "circle.grid.3x3.fill"
+      },
+      {
+       "name": "番茄碎",
+       "grams": 100,
+       "unit": "¼ 罐",
+       "symbol": "flame.fill"
+      },
+      {
+       "name": "冷冻菠菜",
+       "grams": 50,
+       "unit": "⅓ 包",
+       "symbol": "leaf.fill"
+      },
+      {
+       "name": "豆腐",
+       "grams": 50,
+       "unit": "¼ 盒",
+       "symbol": "square.fill"
+      },
+      {
+       "name": "菜籽油",
+       "grams": 8,
+       "unit": "½ 汤匙",
+       "symbol": "drop.fill"
+      }
+     ]
+    },
+    {
+     "id": "snack",
+     "title": "加餐",
+     "symbol": "basket.fill",
+     "time": "15:30",
+     "note": "下午或饭后",
+     "kcal": 255,
+     "protein": 7,
+     "items": [
+      {
+       "name": "香蕉",
+       "grams": 113,
+       "unit": "1 根",
+       "symbol": "moon.fill"
+      },
+      {
+       "name": "橘子",
+       "grams": 92,
+       "unit": "1 个",
+       "symbol": "circle.fill"
+      },
+      {
+       "name": "无盐花生",
+       "grams": 20,
+       "unit": "一小把",
+       "symbol": "circle.dotted"
+      }
+     ]
+    }
+   ],
+   "kcal": 2010,
+   "protein": 92,
+   "fiber": 45,
+   "salt": 4.2,
+   "carbPct": 45,
+   "fatPct": 32,
+   "proteinPct": 18
+  },
+  {
+   "label": "周四",
+   "meals": [
+    {
+     "id": "breakfast",
+     "title": "早餐",
+     "symbol": "sunrise.fill",
+     "time": "7:30",
+     "note": "rahka 上撒 granola，配一杯牛奶",
+     "kcal": 305,
+     "protein": 29,
+     "items": [
+      {
+       "name": "无乳糖脱脂牛奶",
+       "grams": 250,
+       "unit": "2.5 dl",
+       "symbol": "drop.fill"
+      },
+      {
+       "name": "无乳糖 rahka",
+       "grams": 125,
+       "unit": "¼ 盒",
+       "symbol": "cup.and.saucer.fill"
+      },
+      {
+       "name": "水煮蛋",
+       "grams": 60,
+       "unit": "1 个",
+       "symbol": "oval.portrait.fill"
+      },
+      {
+       "name": "Granola 脆片",
+       "grams": 20,
+       "unit": "约 ½ dl",
+       "symbol": "leaf.fill"
+      }
+     ]
+    },
+    {
+     "id": "lunch",
+     "title": "午饭",
+     "symbol": "takeoutbag.and.cup.and.straw.fill",
+     "time": "12:00",
+     "note": "金枪鱼吃完",
+     "kcal": 779,
+     "protein": 25,
+     "items": [
+      {
+       "name": "黑麦面包块",
+       "grams": 165,
+       "unit": "3 块",
+       "symbol": "square.split.diagonal.fill"
+      },
+      {
+       "name": "黄瓜",
+       "grams": 117,
+       "unit": "⅓ 根",
+       "symbol": "leaf.fill"
+      },
+      {
+       "name": "金枪鱼碎",
+       "grams": 52,
+       "unit": "½ 罐",
+       "symbol": "fish.fill"
+      },
+      {
+       "name": "鹰嘴豆泥",
+       "grams": 50,
+       "unit": "3 汤匙",
+       "symbol": "circle.hexagongrid.fill"
+      },
+      {
+       "name": "胡萝卜",
+       "grams": 33,
+       "unit": "1 小根",
+       "symbol": "carrot.fill"
+      },
+      {
+       "name": "人造黄油（含维生素 D）",
+       "grams": 20,
+       "unit": "4 小勺",
+       "symbol": "sun.max.fill"
+      },
+      {
+       "name": "菜籽油",
+       "grams": 9,
+       "unit": "2 小勺 · 拌沙拉",
+       "symbol": "drop.fill"
+      }
+     ]
+    },
+    {
+     "id": "dinner",
+     "title": "晚饭",
+     "symbol": "frying.pan.fill",
+     "time": "18:30",
+     "note": "热昨天剩下的一半",
+     "kcal": 659,
+     "protein": 20,
+     "items": [
+      {
+       "name": "糙米",
+       "grams": 120,
+       "unit": "120 g 生米",
+       "symbol": "circle.grid.3x3.fill"
+      },
+      {
+       "name": "番茄碎",
+       "grams": 100,
+       "unit": "¼ 罐",
+       "symbol": "flame.fill"
+      },
+      {
+       "name": "冷冻菠菜",
+       "grams": 50,
+       "unit": "⅓ 包",
+       "symbol": "leaf.fill"
+      },
+      {
+       "name": "豆腐",
+       "grams": 50,
+       "unit": "¼ 盒",
+       "symbol": "square.fill"
+      },
+      {
+       "name": "菜籽油",
+       "grams": 16,
+       "unit": "1 汤匙",
+       "symbol": "drop.fill"
+      }
+     ]
+    },
+    {
+     "id": "snack",
+     "title": "加餐",
+     "symbol": "basket.fill",
+     "time": "15:30",
+     "note": "下午或饭后",
+     "kcal": 246,
+     "protein": 7,
+     "items": [
+      {
+       "name": "香蕉",
+       "grams": 103,
+       "unit": "1 根",
+       "symbol": "moon.fill"
+      },
+      {
+       "name": "橘子",
+       "grams": 92,
+       "unit": "1 个",
+       "symbol": "circle.fill"
+      },
+      {
+       "name": "无盐花生",
+       "grams": 20,
+       "unit": "一小把",
+       "symbol": "circle.dotted"
+      }
+     ]
+    }
+   ],
+   "kcal": 1990,
+   "protein": 81,
+   "fiber": 45,
+   "salt": 3.6,
+   "carbPct": 45,
+   "fatPct": 34,
+   "proteinPct": 16
+  }
+ ],
+ "shopping": [
+  {
+   "title": "早餐",
+   "items": [
+    {
+     "id": "13991",
+     "fi": "Valio Hyvä suomalainen Arki® pehmeä rahka laktoositon 500 g",
+     "zh": "无乳糖 rahka",
+     "qty": "1 件",
+     "price": 1.49,
+     "symbol": "cup.and.saucer.fill",
+     "image": "p13991",
+     "tag": "替换",
+     "left": 0,
+     "url": "https://www.s-kaupat.fi/tuote/valio-hyva-suomalainen-arkir-pehmea-rahka-laktoositon-500-g/6408430400898",
+     "perDay": "¼ 盒",
+     "eaten": 500,
+     "per100": {
+      "kcal": 59,
+      "protein": 9.2,
+      "fiber": 0.0,
+      "salt": 0.08
+     },
+     "role": [
+      {
+       "label": "钙",
+       "pct": 14
+      },
+      {
+       "label": "碘",
+       "pct": 13
+      }
+     ]
+    },
+    {
+     "id": "7836",
+     "fi": "Kotimaista laktoositon 1 L rasvaton maitojuoma",
+     "zh": "无乳糖脱脂牛奶",
+     "qty": "1 件",
+     "price": 1.35,
+     "symbol": "drop.fill",
+     "image": "p7836",
+     "tag": null,
+     "left": 0,
+     "url": "https://www.s-kaupat.fi/tuote/kotimaista-laktoositon-1-l-rasvaton-maitojuoma/6414893385658",
+     "perDay": "2.5 dl",
+     "eaten": 1000,
+     "per100": {
+      "kcal": 25,
+      "protein": 3.2,
+      "fiber": 0.0,
+      "salt": 0.09
+     },
+     "role": [
+      {
+       "label": "钙",
+       "pct": 30
+      },
+      {
+       "label": "碘",
+       "pct": 24
+      }
+     ]
+    },
+    {
+     "id": "14742",
+     "fi": "Xtra granola natural 750 g",
+     "zh": "Granola 脆片",
+     "qty": "1 件",
+     "price": 2.89,
+     "symbol": "leaf.fill",
+     "image": "p14742",
+     "tag": null,
+     "left": 670,
+     "url": "https://www.s-kaupat.fi/tuote/xtra-granola-natural-750-g/7340191146709",
+     "perDay": "约 ½ dl",
+     "eaten": 80,
+     "per100": {
+      "kcal": 442,
+      "protein": 9.9,
+      "fiber": 8.1,
+      "salt": 0.35
+     },
+     "role": []
+    },
+    {
+     "id": "8072",
+     "fi": "Kotimaista vapaan kanan munat M10",
+     "zh": "水煮蛋",
+     "qty": "1 件",
+     "price": 2.19,
+     "symbol": "oval.portrait.fill",
+     "image": "p8072",
+     "tag": null,
+     "left": 270,
+     "url": "https://www.s-kaupat.fi/tuote/kotimaista-vapaan-kanan-munat-m10/6414893094918",
+     "perDay": "1 个",
+     "eaten": 240,
+     "per100": {
+      "kcal": 134,
+      "protein": 12.6,
+      "fiber": 0.0,
+      "salt": 0.28
+     },
+     "role": [
+      {
+       "label": "维生素 A",
+       "pct": 20
+      },
+      {
+       "label": "碘",
+       "pct": 16
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "午饭",
+   "items": [
+    {
+     "id": "7996",
+     "fi": "Kotimaista ruisleipäpalat 12 kpl 660 g",
+     "zh": "黑麦面包块",
+     "qty": "1 件",
+     "price": 1.28,
+     "symbol": "square.split.diagonal.fill",
+     "image": "p7996",
+     "tag": null,
+     "left": 0,
+     "url": "https://www.s-kaupat.fi/tuote/kotimaista-ruisleipapalat-12-kpl-660-g/6438574148677",
+     "perDay": "3 块",
+     "eaten": 660,
+     "per100": {
+      "kcal": 244,
+      "protein": 7.5,
+      "fiber": 12.0,
+      "salt": 1.1
+     },
+     "role": [
+      {
+       "label": "膳食纤维",
+       "pct": 44
+      },
+      {
+       "label": "锌",
+       "pct": 29
+      }
+     ]
+    },
+    {
+     "id": "2925",
+     "fi": "Coop sardiinit tomaattikastikkeessa MSC 120 g",
+     "zh": "番茄汁沙丁鱼",
+     "qty": "1 件",
+     "price": 1.25,
+     "symbol": "fish.fill",
+     "image": "p2925",
+     "tag": "改量",
+     "left": 0,
+     "url": "https://www.s-kaupat.fi/tuote/coop-sardiinit-tomaattikastikkeessa-msc-120-g/7340011357391",
+     "perDay": "½ 罐",
+     "eaten": 120,
+     "per100": {
+      "kcal": 140,
+      "protein": 19.0,
+      "fiber": 0.0,
+      "salt": 0.91
+     },
+     "role": [
+      {
+       "label": "B12",
+       "pct": 46
+      },
+      {
+       "label": "维生素 D",
+       "pct": 14
+      }
+     ]
+    },
+    {
+     "id": "14913",
+     "fi": "Xtra tonnikalaa hienonnettuna MSC 150/105 g",
+     "zh": "金枪鱼碎",
+     "qty": "2 件",
+     "price": 1.5,
+     "symbol": "fish.fill",
+     "image": "p14913",
+     "tag": "改量",
+     "left": 0,
+     "url": "https://www.s-kaupat.fi/tuote/xtra-tonnikalaa-hienonnettuna-msc-150105-g/7340191161511",
+     "perDay": "½ 罐",
+     "eaten": 210,
+     "per100": {
+      "kcal": 176,
+      "protein": 17.0,
+      "fiber": 0.0,
+      "salt": 1.2
+     },
+     "role": [
+      {
+       "label": "硒",
+       "pct": 33
+      },
+      {
+       "label": "B12",
+       "pct": 21
+      }
+     ]
+    },
+    {
+     "id": "8577",
+     "fi": "Linea Verde Hummus tahini 380 g",
+     "zh": "鹰嘴豆泥",
+     "qty": "1 件",
+     "price": 2.28,
+     "symbol": "circle.hexagongrid.fill",
+     "image": "p8577",
+     "tag": "替换",
+     "left": 180,
+     "url": "https://www.s-kaupat.fi/tuote/linea-verde-hummus-tahini-380-g/6418675196234",
+     "perDay": "3 汤匙",
+     "eaten": 200,
+     "per100": {
+      "kcal": 142,
+      "protein": 6.0,
+      "fiber": 3.5,
+      "salt": 0.52
+     },
+     "role": [
+      {
+       "label": "叶酸",
+       "pct": 13
+      },
+      {
+       "label": "碘",
+       "pct": 7
+      }
+     ]
+    },
+    {
+     "id": "7947",
+     "fi": "Kotimaista porkkana 500 g",
+     "zh": "胡萝卜",
+     "qty": "1 件",
+     "price": 1.15,
+     "symbol": "carrot.fill",
+     "image": "p7947",
+     "tag": null,
+     "left": 318,
+     "url": "https://www.s-kaupat.fi/tuote/kotimaista-porkkana-500-g/6414894502238",
+     "perDay": "1 小根",
+     "eaten": 132,
+     "per100": {
+      "kcal": 33,
+      "protein": 0.6,
+      "fiber": 2.5,
+      "salt": 0.06
+     },
+     "role": [
+      {
+       "label": "维生素 A",
+       "pct": 32
+      }
+     ]
+    },
+    {
+     "id": "7826",
+     "fi": "Kotimaista kurkku",
+     "zh": "黄瓜",
+     "qty": "2 根",
+     "price": 1.3,
+     "symbol": "leaf.fill",
+     "image": "p7826",
+     "tag": null,
+     "left": 0,
+     "url": "https://www.s-kaupat.fi/tuote/kotimaista-kurkku/2000604700007",
+     "perDay": "⅓ 根",
+     "eaten": 468,
+     "per100": {
+      "kcal": 11,
+      "protein": 0.6,
+      "fiber": 0.7,
+      "salt": 0.01
+     },
+     "role": [
+      {
+       "label": "维生素 C",
+       "pct": 8
+      },
+      {
+       "label": "维生素 K",
+       "pct": 8
+      }
+     ]
+    },
+    {
+     "id": "7669",
+     "fi": "Kotimaista 450ml rypsiöljy",
+     "zh": "菜籽油",
+     "qty": "1 件",
+     "price": 1.89,
+     "symbol": "drop.fill",
+     "image": "p7669",
+     "tag": null,
+     "left": 332,
+     "url": "https://www.s-kaupat.fi/tuote/kotimaista-450ml-rypsioljy/6438348001498",
+     "perDay": "做饭用",
+     "eaten": 82,
+     "per100": {
+      "kcal": 900,
+      "protein": 0.0,
+      "fiber": 0.0,
+      "salt": 0.0
+     },
+     "role": [
+      {
+       "label": "维生素 E",
+       "pct": 26
+      },
+      {
+       "label": "维生素 K",
+       "pct": 14
+      }
+     ]
+    },
+    {
+     "id": "7202",
+     "fi": "Keiju Rypsiöljy margariini 60 400 g",
+     "zh": "人造黄油（含维生素 D）",
+     "qty": "1 件",
+     "price": 1.94,
+     "symbol": "sun.max.fill",
+     "image": "p7202",
+     "tag": "新增",
+     "left": 320,
+     "url": "https://www.s-kaupat.fi/tuote/keiju-rypsioljy-margariini-60-400-g/6438207001157",
+     "perDay": "4 小勺",
+     "eaten": 80,
+     "per100": {
+      "kcal": 540,
+      "protein": 0.0,
+      "fiber": 0.0,
+      "salt": 1.0
+     },
+     "role": [
+      {
+       "label": "维生素 D",
+       "pct": 35
+      },
+      {
+       "label": "维生素 A",
+       "pct": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "晚饭",
+   "items": [
+    {
+     "id": "14910",
+     "fi": "Xtra tomaattimurska 400 g",
+     "zh": "番茄碎",
+     "qty": "1 件",
+     "price": 0.32,
+     "symbol": "flame.fill",
+     "image": "p14910",
+     "tag": "改量",
+     "left": 0,
+     "url": "https://www.s-kaupat.fi/tuote/xtra-tomaattimurska-400-g/7340191171480",
+     "perDay": "¼ 罐",
+     "eaten": 400,
+     "per100": {
+      "kcal": 20,
+      "protein": 1.3,
+      "fiber": 1.9,
+      "salt": 0.05
+     },
+     "role": [
+      {
+       "label": "维生素 C",
+       "pct": 13
+      },
+      {
+       "label": "钾",
+       "pct": 7
+      }
+     ]
+    },
+    {
+     "id": "2280",
+     "fi": "Coop hienonnettu pinaatti 150 g pakaste",
+     "zh": "冷冻菠菜",
+     "qty": "2 件",
+     "price": 0.78,
+     "symbol": "leaf.fill",
+     "image": "p2280",
+     "tag": null,
+     "left": 100,
+     "url": "https://www.s-kaupat.fi/tuote/coop-hienonnettu-pinaatti-150-g-pakaste/7340191154285",
+     "perDay": "⅓ 包",
+     "eaten": 200,
+     "per100": {
+      "kcal": 18,
+      "protein": 2.8,
+      "fiber": 2.2,
+      "salt": 0.05
+     },
+     "role": [
+      {
+       "label": "维生素 K",
+       "pct": 60
+      },
+      {
+       "label": "维生素 C",
+       "pct": 27
+      }
+     ]
+    },
+    {
+     "id": "2167",
+     "fi": "Coop Eko tofu luomu 200 g",
+     "zh": "豆腐",
+     "qty": "1 件",
+     "price": 1.15,
+     "symbol": "square.fill",
+     "image": "p2167",
+     "tag": "改量",
+     "left": 0,
+     "url": "https://www.s-kaupat.fi/tuote/coop-eko-tofu-luomu-200-g/7340191186446",
+     "perDay": "¼ 盒",
+     "eaten": 200,
+     "per100": {
+      "kcal": 146,
+      "protein": 15.0,
+      "fiber": 0.0,
+      "salt": 0.03
+     },
+     "role": [
+      {
+       "label": "钙",
+       "pct": 17
+      },
+      {
+       "label": "铁",
+       "pct": 14
+      }
+     ]
+    },
+    {
+     "id": "3087",
+     "fi": "Coop täysjyväriisi 1 kg",
+     "zh": "糙米",
+     "qty": "1 件",
+     "price": 2.34,
+     "symbol": "circle.grid.3x3.fill",
+     "image": "p3087",
+     "tag": null,
+     "left": 520,
+     "url": "https://www.s-kaupat.fi/tuote/coop-taysjyvariisi-1-kg/7340011495109",
+     "perDay": "120 g 生米",
+     "eaten": 480,
+     "per100": {
+      "kcal": 348,
+      "protein": 7.8,
+      "fiber": 9.8,
+      "salt": 0.03
+     },
+     "role": [
+      {
+       "label": "膳食纤维",
+       "pct": 26
+      },
+      {
+       "label": "镁",
+       "pct": 26
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "加餐",
+   "items": [
+    {
+     "id": "8963",
+     "fi": "Mandariini Leanri",
+     "zh": "橘子",
+     "qty": "4 个",
+     "price": 1.44,
+     "symbol": "circle.fill",
+     "image": "p8963",
+     "tag": null,
+     "left": 0,
+     "url": "https://www.s-kaupat.fi/tuote/mandariini-leanri/2000873000006",
+     "perDay": "1 个",
+     "eaten": 370,
+     "per100": {
+      "kcal": 45,
+      "protein": 0.6,
+      "fiber": 1.9,
+      "salt": 0.0
+     },
+     "role": [
+      {
+       "label": "维生素 C",
+       "pct": 34
+      }
+     ]
+    },
+    {
+     "id": "2046",
+     "fi": "Coop banaani",
+     "zh": "香蕉",
+     "qty": "4 根",
+     "price": 1.24,
+     "symbol": "moon.fill",
+     "image": "p2046",
+     "tag": null,
+     "left": 0,
+     "url": "https://www.s-kaupat.fi/tuote/coop-banaani/2005603200008",
+     "perDay": "1 根",
+     "eaten": 430,
+     "per100": {
+      "kcal": 88,
+      "protein": 1.2,
+      "fiber": 1.8,
+      "salt": 0.01
+     },
+     "role": [
+      {
+       "label": "钾",
+       "pct": 11
+      },
+      {
+       "label": "维生素 C",
+       "pct": 10
+      }
+     ]
+    },
+    {
+     "id": "2505",
+     "fi": "Coop maapähkinä suolaamaton 250g",
+     "zh": "无盐花生",
+     "qty": "1 件",
+     "price": 0.98,
+     "symbol": "circle.dotted",
+     "image": "p2505",
+     "tag": null,
+     "left": 170,
+     "url": "https://www.s-kaupat.fi/tuote/coop-maapahkina-suolaamaton-250g/7340191168541",
+     "perDay": "一小把",
+     "eaten": 80,
+     "per100": {
+      "kcal": 573,
+      "protein": 27.0,
+      "fiber": 8.5,
+      "salt": 0.0
+     },
+     "role": [
+      {
+       "label": "维生素 E",
+       "pct": 15
+      },
+      {
+       "label": "镁",
+       "pct": 7
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "plate": [
+  {
+   "label": "蔬果",
+   "grams": 500,
+   "rec": 50
+  },
+  {
+   "label": "蛋白类",
+   "grams": 242,
+   "rec": 25
+  },
+  {
+   "label": "全谷物",
+   "grams": 305,
+   "rec": 25
+  }
+ ],
+ "nutrition": {
+  "macros": [
+   {
+    "label": "蛋白质",
+    "value": 17,
+    "lo": 10,
+    "hi": 20,
+    "unit": "E%"
+   },
+   {
+    "label": "脂肪",
+    "value": 33,
+    "lo": 25,
+    "hi": 40,
+    "unit": "E%"
+   },
+   {
+    "label": "碳水",
+    "value": 45,
+    "lo": 45,
+    "hi": 60,
+    "unit": "E%"
+   },
+   {
+    "label": "饱和脂肪",
+    "value": 6.1,
+    "lo": 0,
+    "hi": 10,
+    "unit": "E%"
+   }
+  ],
+  "groups": [
+   {
+    "label": "蔬果莓",
+    "value": 500.0,
+    "lo": 500,
+    "hi": 800,
+    "unit": "g"
+   },
+   {
+    "label": "全谷物",
+    "value": 305.0,
+    "lo": 90,
+    "hi": null,
+    "unit": "g"
+   },
+   {
+    "label": "豆类",
+    "value": 100.0,
+    "lo": 50,
+    "hi": 100,
+    "unit": "g"
+   },
+   {
+    "label": "奶制品",
+    "value": 375.0,
+    "lo": 350,
+    "hi": 500,
+    "unit": "g"
+   },
+   {
+    "label": "植物油脂",
+    "value": 40.5,
+    "lo": 25,
+    "hi": null,
+    "unit": "g"
+   },
+   {
+    "label": "坚果",
+    "value": 20.0,
+    "lo": 20,
+    "hi": 30,
+    "unit": "g"
+   },
+   {
+    "label": "鱼 · 每周",
+    "value": 578,
+    "lo": 300,
+    "hi": 450,
+    "unit": "g"
+   }
+  ],
+  "micros": [
+   {
+    "label": "维生素 D",
+    "pct": 115
+   },
+   {
+    "label": "钙",
+    "pct": 107
+   },
+   {
+    "label": "碘",
+    "pct": 105
+   },
+   {
+    "label": "铁",
+    "pct": 209
+   },
+   {
+    "label": "叶酸",
+    "pct": 129
+   },
+   {
+    "label": "B12",
+    "pct": 246
+   },
+   {
+    "label": "锌",
+    "pct": 99
+   },
+   {
+    "label": "硒",
+    "pct": 138
+   },
+   {
+    "label": "维生素 A",
+    "pct": 100
+   },
+   {
+    "label": "维生素 C",
+    "pct": 101
+   },
+   {
+    "label": "维生素 E",
+    "pct": 134
+   },
+   {
+    "label": "维生素 K",
+    "pct": 299
+   },
+   {
+    "label": "B2",
+    "pct": 117
+   },
+   {
+    "label": "B6",
+    "pct": 140
+   },
+   {
+    "label": "钾",
+    "pct": 102
+   },
+   {
+    "label": "镁",
+    "pct": 148
+   },
+   {
+    "label": "磷",
+    "pct": 342
+   },
+   {
+    "label": "铜",
+    "pct": 192
+   },
+   {
+    "label": "锰",
+    "pct": 267
+   },
+   {
+    "label": "钼",
+    "pct": 158
+   }
+  ],
+  "fixes": [
+   {
+    "title": "维生素 D",
+    "from": "79%",
+    "to": "115%",
+    "why": "加人造黄油抹面包"
+   },
+   {
+    "title": "鸡蛋",
+    "from": "周二 3 个",
+    "to": "每天 1 个",
+    "why": "芬兰建议 ≤ 1 个/天"
+   },
+   {
+    "title": "豆类",
+    "from": "130–140 g",
+    "to": "100 g",
+    "why": "建议 50–100 g/天"
+   }
+  ]
+ },
+ "prep": [
+  {
+   "when": "周日晚",
+   "minutes": 20,
+   "what": "煮 480 g 糙米分 4 盒（2 冷藏 2 冷冻）· 煮 4 个蛋"
+  },
+  {
+   "when": "周一晚",
+   "minutes": 15,
+   "what": "做第一锅番茄菠菜豆腐，吃一半"
+  },
+  {
+   "when": "周三晚",
+   "minutes": 15,
+   "what": "做第二锅，吃一半"
+  }
+ ],
+ "recipe": {
+  "title": "番茄菠菜豆腐",
+  "serves": "两顿",
+  "steps": [
+   "½ 盒豆腐切 2 cm 小块，1 汤匙菜籽油中火煎 4 分钟（可跳过）",
+   "加 ½ 罐番茄碎、1 包冻菠菜，不用解冻",
+   "中小火煮 8–10 分钟到汤汁变稠",
+   "蒜、黑胡椒调味——不加盐，不加酱油",
+   "分两盒，一盒今晚配饭，一盒明晚微波热透"
+  ]
+ },
+ "basis": "价格：S-market Ympyrätalo 抓取快照（2026-07）。营养：S-kaupat 标签 + Fineli（THL, CC BY 4.0）。"
+}
